@@ -1,0 +1,16 @@
+# VS/Build
+.vs/
+bin/
+obj/
+*.user
+*.rsuser
+*.suo
+*.log
+
+# SQLite local files
+*.db
+*.db-shm
+*.db-wal
+
+# Local config (keep secrets local)
+appsettings.Development.json
